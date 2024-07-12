@@ -8,11 +8,14 @@ This project leverages the Stable Diffusion model to generate images from text p
 - Web-based user interface powered by Gradio
 - Easy-to-use Google Colab implementation
 
-## Installation
+## Installation and Usage
 To run this project:
-1. Open the Google Colab notebook
+1. Open the [Google Colab notebook](https://colab.research.google.com/drive/16R_SOQg-BB7rUtCypHRhnhQJNgdZBGPR?usp=sharing)
 2. Run all cells in order
 3. Access the Gradio interface via the provided link
+4. Enter your text prompt in the input field
+5. Click 'Generate' to create your image
+6. View and download the generated image
 
 ## Usage
 1. Enter your text prompt in the input field
